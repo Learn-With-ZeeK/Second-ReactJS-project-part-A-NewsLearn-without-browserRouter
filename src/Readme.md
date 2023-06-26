@@ -1,1 +1,1 @@
-App.js and Components main files in src
+App.js and Components are main files in src folder
